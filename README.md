@@ -1,4 +1,4 @@
-### 🤟 Amigo - Traductor de Texto a Lenguaje de Signos
+#### 🤟 Amigo - Traductor de Texto a Lenguaje de Signos
 
 ## Descripción
 **Amigo** es una aplicación interactiva que transforma texto en lenguaje de signos utilizando una interfaz gráfica intuitiva y una máquina virtual basada en una pila de datos. Cada letra ingresada se convierte en su código ASCII, se almacena en una pila, y luego se muestra en la pantalla con su respectiva imagen en lenguaje de signos. Esta aplicación permite comprender conceptos de pila en un contexto visual y educativo.
